@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030961201611",
+    "project_id": "refinance-db7b2",
+    "storage_bucket": "refinance-db7b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030961201611:android:17dc48340a15f1ee51764e",
+        "android_client_info": {
+          "package_name": "com.radjen.refinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYWoCT-uQuCdml7KQXqnjf_BMTJ98goA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
