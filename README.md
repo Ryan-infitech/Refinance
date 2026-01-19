@@ -1,4 +1,14 @@
-# Refinance# 💰
+<div align="right">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ryan-infitech.Refinance)
+
+</div>
+
+# Refinance#
+
+<p align="center">
+  <img src="assets/images/refinance.png" alt="Reinventory Logo" width="200" onerror="this.style.display='none'"/>
+</p>
 
 Aplikasi pencatatan keuangan berbasis Flutter yang berfungsi secara **offline** dengan fitur registrasi, login, dan manajemen transaksi pemasukan & pengeluaran..
 
